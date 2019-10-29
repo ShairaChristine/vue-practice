@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Satisfy&display=swap');
+body{
+    font-family: 'Satisfy', cursive;
+}
+.cursive-heading{
+    font-family: 'Satisfy', cursive !important;
+}
+.primary{
+    background-color: #009688;
+}
+.secondary{
+    background-color: #cddc39;
+}
+.accent{
+    background-color: #8ac34f;
+}
+.dark-primary{
+    background-color: #00443e;
+}
+/* .yo{
+    font-family: 'Quicksand', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Satisfy', cursive;
+} */
