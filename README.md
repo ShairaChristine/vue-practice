@@ -1,4 +1,4 @@
-# shaira
+# Blog exercise
 
 ## Project setup
 ```
